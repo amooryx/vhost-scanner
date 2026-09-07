@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="vhost-scanner" width="800">
+</div>
+
 # vhost-scanner
 
 > Virtual host discovery via Host header fuzzing
