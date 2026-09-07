@@ -1,4 +1,4 @@
-﻿# vhost-scanner
+# vhost-scanner
 
 > Virtual host discovery via Host header fuzzing
 
